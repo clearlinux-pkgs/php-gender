@@ -4,7 +4,7 @@
 #
 Name     : php-gender
 Version  : 1.1.0
-Release  : 5
+Release  : 6
 URL      : https://pecl.php.net//get/gender-1.1.0.tgz
 Source0  : https://pecl.php.net//get/gender-1.1.0.tgz
 Summary  : No detailed summary available
